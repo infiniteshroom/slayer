@@ -1,0 +1,15 @@
+{
+	"settings":
+	{
+		"include_paths":
+		[
+			"/home/mark/Documents/slayer/source/",
+			"/home/mark/.dub/packages/unit-threaded-0.6.32/unit-threaded/source/",
+			"/home/mark/.dub/packages/mysql-d-0.3.3/mysql-d/source/",
+			"/home/mark/.dub/packages/endovena-0.3.3/endovena/src/",
+			"/home/mark/.dub/packages/dunit-1.0.12/dunit/source/",
+			"/home/mark/.dub/packages/witchcraft-0.1.9/witchcraft/source/"
+		],
+		"package_file": "/home/mark/Documents/slayer/dub.sdl"
+	}
+}

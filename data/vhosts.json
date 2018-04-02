@@ -1,0 +1,13 @@
+[
+    {
+
+        "documentRoot": "/home/mark/slayer/data/www",
+        "port": "8080",
+        "serverName": "localhost",
+        "indexFiles": "index.html",
+        "redEnabled": "true",
+
+        "dev": "true"
+    }
+
+]

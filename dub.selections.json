@@ -1,0 +1,11 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"dunit": "1.0.12",
+		"endovena": "0.3.4",
+		"mysql-d": "0.3.3",
+		"poodinis": "7.0.1",
+		"unit-threaded": "0.7.41",
+		"witchcraft": "0.1.9"
+	}
+}
