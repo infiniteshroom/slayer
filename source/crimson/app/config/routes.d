@@ -34,11 +34,11 @@ class Routes {
 				string[string] params;
 				
 				params["driver"] = "mysql";	
-				params["db_name"] = "sql8144260";
+				params["db_name"] = "";
 				params["db_port"] = "3306";
-				params["db_username"] = "sql8144260";
-				params["db_password"] = "XpCwyHdNq5";
-				params["db_host"] = "sql8.freemysqlhosting.net";
+				params["db_username"] = "";
+				params["db_password"] = "";
+				params["db_host"] = "";
 
 				CrimsonDatabaseConnection conn = new CrimsonDatabaseConnection();
 				conn.open(params);
